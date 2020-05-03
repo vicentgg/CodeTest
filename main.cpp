@@ -11,7 +11,7 @@ int main(void) {
 
     vector<int> num;
     int length, x;
-    cout << "length:" << endl;
+    cout << "length:" << endl;//输入数组长度
     cin >> length;
 
     for (int i = 0; i < length; i++) {
