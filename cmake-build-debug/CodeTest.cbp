@@ -87,6 +87,12 @@
 		<Unit filename="E:/CodeTest/Solution.h">
 			<Option target="CodeTest"/>
 		</Unit>
+		<Unit filename="E:/CodeTest/Solution1.h">
+			<Option target="CodeTest"/>
+		</Unit>
+		<Unit filename="E:/CodeTest/Solution2.h">
+			<Option target="CodeTest"/>
+		</Unit>
 		<Unit filename="E:/CodeTest/main.cpp">
 			<Option target="CodeTest"/>
 		</Unit>

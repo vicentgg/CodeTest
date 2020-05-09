@@ -3,4 +3,4 @@ project(CodeTest)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(CodeTest main.cpp Solution.h)
+add_executable(CodeTest main.cpp Solution.h Solution1.h Solution2.h)

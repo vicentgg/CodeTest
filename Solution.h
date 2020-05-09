@@ -1,5 +1,5 @@
 //
-// Created by 13425 on 2020/5/3.
+// 找到数组中的最大子序列
 //
 
 #ifndef CLIONWORK_SOLUTION_H
